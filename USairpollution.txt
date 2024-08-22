@@ -1,4 +1,4 @@
-"SO2" "temp" "manu" "popul" "wind" "precip" "predays"
+"State" "SO2" "temp" "manu" "popul" "wind" "precip" "predays"
 "Albany" 46 47.6 44 116 8.8 33.36 135
 "Albuquerque" 11 56.8 46 244 8.9 7.77 58
 "Atlanta" 24 61.5 368 497 9.1 48.34 115
